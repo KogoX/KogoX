@@ -34,8 +34,8 @@ I'm committed to writing clean, efficient code and building innovative solutions
 🏆 My Projects
 <!-- When you have projects to showcase, list them here -->
 <!-- 
-- [Project Name](Link) - Brief description
-- [Project Name](Link) - Brief description
+- [](Link) - Brief description
+- [Online Car Rental System](https://github.com/KogoX/onlineshoppingwebsite) - Project which is still on progress
 -->
 
 📫 How to reach me
